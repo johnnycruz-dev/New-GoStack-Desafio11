@@ -11,7 +11,6 @@ Nesse desafio, usando TypeScript, foi aplicado os conceitos do React Native e fo
 Telas da aplicação:
 
 <div align="center">
-    <img src="./images/Splash.png"/>
     <img src="./images/Home.png"/>
     <img src="./images/Dashboard.png"/>
     <img src="./images/Pedidos.png"/>
